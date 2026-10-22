@@ -1,5 +1,5 @@
 ## 1.0.82 - 2026-08-29
-
+~
 - A message typed while /worktree or /move is preparing the worktree no longer breaks the switch into it
 - Ctrl+E expands the plan approval card to show the full plan again
 - Show the specific authentication failure (such as 401 Bad credentials) instead of only the /login prompt
